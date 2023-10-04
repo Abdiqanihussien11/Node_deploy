@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to the API documentation for the Bookstore API. This API provides endpoints for managing bookstores, authors, and books. The API is designed to be simple and easy to use, with clear and concise documentation.
-The API is hosted at `https://bookstore-0axz.onrender.com/`
+The API is hosted at `https://node-deploy-465u.onrender.com/`
 
 ### Authentication
 
